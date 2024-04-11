@@ -30,7 +30,7 @@ body {
 
 .Sobre{
     background-image: linear-gradient(black,whith);
-    color:white;
+    color:black;
     display: flex;
     justify-content: center;
     align-items: center;
