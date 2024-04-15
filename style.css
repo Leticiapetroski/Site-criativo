@@ -37,38 +37,38 @@ body {
     padding: 24px 0;
 }
 
-.Sobre-div-conteudo{
+.sobre-div-conteudo{
     width: 35%;
 }
 
 
-.Sobre-titulo{
+.sobre-titulo{
     padding: 24px 0;
 }
 
-.Informacoes{
+.informacoes{
     padding: 24px 0;
 }
-.Informações-imagem{
+.informacoes-imagem{
     width: 120px;
 }
 
-.Informações-icone{
+.informacoes-icone{
     width: 24px;
     padding: 4px 8px;
 }
 
-.Informações-div{
+.informacoes-div{
     text-align: center;
     padding: 16px 0;
 }
 
-.Informações-titulo{
+.informacoes-titulo{
     text-align: center;
     padding: 24px 0;
 }
 
-.Informações-todos{
+.informacoes-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
